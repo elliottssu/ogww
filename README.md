@@ -4,9 +4,9 @@ English | [简体中文](./README.CN.md)
 OGWW
 ========
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/elliottssu/ogww)](https://github.com/elliottssu/ogww)
 [![Issues](https://img.shields.io/github/issues/elliottssu/ogww)](https://github.com/elliottssu/ogww/issues)
 [![License](https://img.shields.io/github/license/elliottssu/ogww)](https://github.com/elliottssu/ogww/blob/master/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/elliottssu/ogww)](https://github.com/elliottssu/ogww)
 
 #### Become a multi-planet species, a romantic space application. 👽 ####
 
