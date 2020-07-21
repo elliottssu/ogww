@@ -1,36 +1,36 @@
 
 English | [简体中文](./README.CN.md) 
 
-欧机汪（OGWW）
+OGWW
 ========
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/elliottssu/ogww)](https://github.com/elliottssu/ogww)
 [![Issues](https://img.shields.io/github/issues/elliottssu/ogww)](https://github.com/elliottssu/ogww/issues)
 [![License](https://img.shields.io/github/license/elliottssu/ogww)](https://github.com/elliottssu/ogww/blob/master/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/elliottssu/ogww)](https://github.com/elliottssu/ogww)
 
-#### 成为多星球物种，浪漫的太空应用。👽 ####
+#### Become a multi-planet species, a romantic space application. 👽 ####
 
-欧机汪会定期更新与太空相关的网页，目前更多的是关于网页中涉及Javascript和AI技术。并非专业的科研项目，而是偏向轻松、简单的“小甜点”。
+ogww will regularly update web pages related to space. Currently, it is more about web pages involving Javascript and AI technology. It is not a professional scientific research project, but a light and simple "small dessert".
 
-[OGWW官网](https://ogww.com) &mdash;
-[Wiki文档](https://github.com/elliottssu/ogww/wiki)
+[OGWW Official Website](https://ogww.com) &mdash;
+[Wiki](https://github.com/elliottssu/ogww/wiki)
 
-## 项目列表
+## Project list
 
-|项目|介绍|地址|
+|Porject|Introduction|Link|
 |------|--------|------|
-| 首页黑色石碑 | 使用three.js实现可拖拽，可旋转的黑色石碑 | [Github](https://github.com/elliottssu/ogww.git) |
+| Home page black stone | Use three.js to realize draggable and rotatable black stone monument | [Github](https://github.com/elliottssu/ogww.git) |
 
 
-## 首页黑色石碑
+## Home page black stone
 
-> “黑色石碑”是来自科幻电影“2001: 太空漫游”，它有种神秘力量启示猿猴使用工具、进化为人类。 您也可以查看网上对此的讨论
-[《2001 太空漫游》黑色方碑代表什么？ - 知乎](https://www.zhihu.com/question/19703229/answer/52923752)
+> "Black Stone" is from the science fiction movie "2001: A Space Odyssey", it has a mysterious power to inspire apes to use tools and evolve into humans. A monolith is a mysterious black slab, discovered throughout the Solar System in various sizes, but all of them maintaining a 1:4:9 dimensional ratio in Arthur C. Clarke’s Space Odyssey series. You can also check online discussions about this
+[Monolith - fandom](https://2001.fandom.com/wiki/Monolith)
 
-基于WebGL技术实现科幻电影“2001太空漫游”中经典石碑，有着深沉的黑色，修长的面板，以及扑朔迷离的光影。通过几十行代码即可实现，可拖拽、可旋转的黑色石碑，快来试试吧
+Based on WebGL technology to realize the classic stone monument in the science fiction movie "2001: A Space Odyssey", with deep black, slender panel, and confusing light and shadow. It can be achieved by dozens of lines of code, a draggable and rotatable black stone monument, come and try!
 
-您可以下载本项目中的`black-stone.html`运行demo。
+You can download the `black-stone.html` in this project to run the demo.
 
-## 更新日志
+## Update log
 
-- 新增黑色石碑项目 2020.07.22
+- add black stone project 2020.07.22
