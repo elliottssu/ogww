@@ -1,5 +1,5 @@
 
-[English](./README.CN.md) | 简体中文
+[English](./README.md) | 简体中文
 
 欧机汪（OGWW）
 ========
