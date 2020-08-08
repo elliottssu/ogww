@@ -7,9 +7,9 @@ OGWW
 [![License](https://img.shields.io/github/license/elliottssu/ogww)](https://github.com/elliottssu/ogww/blob/master/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/elliottssu/ogww)](https://github.com/elliottssu/ogww)
 
-#### Become a multi-planet species, a romantic space application. 🚀🚀🚀####
+#### 🚀🚀🚀Become a multi-planet species, a romantic space application. 🚀🚀🚀 ####
 
-ogww will regularly update web pages related to space. Currently, it is more about web pages involving Javascript and AI technology. It is not a professional scientific research project, but a light and simple "small dessert".
+OGWW will regularly update web pages related to space. Currently, it is more about web pages involving Javascript and AI technology. It is not a professional scientific research project, but a light and simple "small dessert".
 
 [ogww.com](https://ogww.com) &mdash;
 [Wiki](https://github.com/elliottssu/ogww/wiki) &mdash;

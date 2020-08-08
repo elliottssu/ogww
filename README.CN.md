@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/github/license/elliottssu/ogww)](https://github.com/elliottssu/ogww/blob/master/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/elliottssu/ogww)](https://github.com/elliottssu/ogww)
 
-#### 成为多星球物种，浪漫的太空应用。 🚀🚀🚀####
+#### 🚀🚀🚀成为多星球物种，浪漫的太空应用。 🚀🚀🚀 ####
 
 欧机汪会定期更新与太空相关的网页，目前更多的是关于网页中涉及Javascript和AI技术。并非专业的科研项目，而是偏向轻松、简单的“小甜点”。
 
