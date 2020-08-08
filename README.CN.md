@@ -21,7 +21,7 @@
 |项目|介绍|地址|
 |------|--------|------|
 | 首页黑色石碑 | 使用three.js实现可拖拽，可旋转的黑色石碑 | [GitHub](https://github.com/elliottssu/ogww.git) |
-| 天问一号霍曼转移轨道 | Use python to simulate the Hohmann transfer orbit of Tianwen-1 | [GitHub](https://github.com/elliottssu/hohmann-transfer-orbit-tianwen) |
+| 天问一号霍曼转移轨道 | 使用python模拟天问一号的霍曼转移轨道 | [GitHub](https://github.com/elliottssu/hohmann-transfer-orbit-tianwen) |
 
 
 *您也可以访问 [https://ogww.com](https://ogww.com) 了解更多项目详情。*
