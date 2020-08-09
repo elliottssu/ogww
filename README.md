@@ -20,8 +20,8 @@ OGWW will regularly update web pages related to space. Currently, it is more abo
 
 |Porject|Introduction|Link|
 |------|--------|------|
-| Home page black stone | Use three.js to realize draggable and rotatable black stone monument | [GitHub](https://github.com/elliottssu/ogww.git) |
-| Hohmann transfer orbit tianwen-1 | Use python to simulate the Hohmann transfer orbit of Tianwen-1 | [GitHub](https://github.com/elliottssu/hohmann-transfer-orbit-tianwen) |
+| Home page black stone | Use three.js to realize draggable and rotatable black stone monument | [GitHub](https://github.com/elliottssu/black-stone) |
+| Hohmann transfer orbit Tianwen-1 | Use python to simulate the Hohmann transfer orbit of Tianwen-1 | [GitHub](https://github.com/elliottssu/hohmann-transfer-orbit-tianwen) |
 
 
 *You can also visit [https://ogww.com](https://ogww.com) for more project details.*

@@ -20,7 +20,7 @@
 
 |项目|介绍|地址|
 |------|--------|------|
-| 首页黑色石碑 | 使用three.js实现可拖拽，可旋转的黑色石碑 | [GitHub](https://github.com/elliottssu/ogww.git) |
+| 首页黑色石碑 | 使用three.js实现可拖拽，可旋转的黑色石碑 | [GitHub](https://github.com/elliottssu/black-stone) |
 | 天问一号霍曼转移轨道 | 使用python模拟天问一号的霍曼转移轨道 | [GitHub](https://github.com/elliottssu/hohmann-transfer-orbit-tianwen) |
 
 
