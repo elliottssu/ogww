@@ -24,7 +24,7 @@ OGWW will regularly update web pages related to space. Currently, it is more abo
 | Hohmann transfer orbit Tianwen-1 | Use python to simulate the Hohmann transfer orbit of Tianwen-1 | [GitHub](https://github.com/elliottssu/hohmann-transfer-orbit-tianwen) |
 
 
-*You can also visit [https://ogww.com](https://ogww.com) for more project details.*
+**You can also visit [https://ogww.com](https://ogww.com) for more project details.**
 
 ## Change Log
 
