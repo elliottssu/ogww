@@ -20,6 +20,7 @@
 
 |项目|介绍|地址|
 |------|--------|------|
+| 解码旅行者号金唱片 | 根据旅行者号金唱片封面上提供的扫描周期和波形示例，解码被编码为音频信号的图像。 | [GitHub](https://github.com/elliottssu/voyager-golden-record) |
 | 首页黑色石碑 | 使用three.js实现可拖拽，可旋转的黑色石碑 | [GitHub](https://github.com/elliottssu/black-stone) |
 | 天问一号霍曼转移轨道 | 使用python模拟天问一号的霍曼转移轨道 | [GitHub](https://github.com/elliottssu/hohmann-transfer-orbit-tianwen) |
 
@@ -28,5 +29,6 @@
 
 ## 更新日志
 
+- 2020.12.11 添加项目 "解码旅行者号金唱片"。
 - 2020.08.08 添加项目 "首页黑色石碑"。
 - 2020.07.22 添加项目 "天问一号霍曼转移轨道"。
