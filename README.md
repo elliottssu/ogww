@@ -27,6 +27,6 @@ OGWW will regularly update web pages related to space. Currently, it is more abo
 
 ## Change Log
 
-- 2020.12.11 add project "Decode the Voyager Golden Record"。
+- 2021.06.01 add project "Moon map"。
 - 2020.08.08 add project "Black stone".
 - 2020.07.22 add project "Hohmann transfer orbit tianwen-1".
